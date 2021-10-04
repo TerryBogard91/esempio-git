@@ -6,6 +6,7 @@ body {
 p {
   color: red;
   font-size: 2rem;
+  height: 30px;
 }
 
 h1 {
